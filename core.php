@@ -6,10 +6,10 @@
 
 		switch($operators){
 			case "none": echo "Please choose a valid operator!"; break;
-			case "add": echo $numbers1 + $numbers2; break;
-			case "subtrack": echo $numbers1 - $numbers2; break;
-			case "multiply": echo $numbers1 * $numbers2; break;
-			case "divide": echo $numbers1 / $numbers2; break;
+			case "addition": echo $numbers1 + $numbers2; break;
+			case "subtraction": echo $numbers1 - $numbers2; break;
+			case "multiplication": echo $numbers1 * $numbers2; break;
+			case "division": echo $numbers1 / $numbers2; break;
 		}
 	}
 ?>
