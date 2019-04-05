@@ -10,8 +10,8 @@
 		<p>Calculator</p>
 	</div>
 	<form>
-		<input type="text" name="number1" placeholder="Number 1">
-		<input type="text" name="number2" placeholder="Number 2">
+		<input type="text" name="number1" placeholder="First Number ">
+		<input type="text" name="number2" placeholder="Second Number ">
 		<select name="operator">
 			<option>none</option>
 			<option>addition</option>
