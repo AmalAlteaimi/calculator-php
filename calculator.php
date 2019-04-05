@@ -3,7 +3,7 @@
 <HTML>
 <HEAD>
 	<meta charset="utf-8">
-	<title>Small Calculator in PHP</title>
+	<title>Simple Calculator </title>
 </HEAD>
 <BODY>
 	<div class="calc">
@@ -14,10 +14,10 @@
 		<input type="text" name="number2" placeholder="Number 2">
 		<select name="operator">
 			<option>none</option>
-			<option>add</option>
-			<option>subtrack</option>
-			<option>multiply</option>
-			<option>divide</option>
+			<option>addition</option>
+			<option>subtraction</option>
+			<option>multiplication</option>
+			<option>division</option>
 		</select><br>
 		<button type="submit" name="submit" value="submit">CALCULATE</button>
 	</form>
